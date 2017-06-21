@@ -1,0 +1,4 @@
+target 'PushForSwift' do
+    pod 'MobileCenter'
+    pod 'MobileCenter/Push'
+end
